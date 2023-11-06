@@ -4,7 +4,7 @@ blockchain🚀🦄💰❤️🤑👁🧬🎧🐝
 説明は、結びが「ブロックチェーンでは、合意可能、唯一無二の"情報の状態"を作ることができる。」になるようにします。
 
 2. bitcoinで説明したブロックチェーンを「ブロックチェーンの原理」として、それをethereumに応用する。
-smartContractを、pythonのクラスのインスタンスで説明する。(contractInPython.py,blockchain.py)
+smartContractを、pythonのコードで説明する。(contractInPython.py,blockchain.py)
 
 ３. 選挙アプリ(Vote.sol,onClick.js)を、ブロックチェーン上に作って、実践的に見てみる。
 
